@@ -1,4 +1,7 @@
 # Explicación
+
 Un repositorio en GitHub es un entorno virtual donde puedes guardar archivos de código para mantenerlos organizados y accesibles. En este caso, los códigos estarán escritos en el lenguaje de programación Phyton, pero también serían compatibles otros lenguajes como C++, JavaScript o Ruby. Como descirpción general, sería una carpeta para organizar tus códigos y que cuando busques uno en concreto te sea más fácil de encontrar. Su propósito, por tanto, es ese, el de mantener tus códigos en la nube. 
+
 Este repositorio en concreto es el de práctica, es con el que yo empiezo en GitHub y donde subiré (supongo) mis primeros ejercicios con phyton. Probablemente a lo largo del curso iremps creando más repositorios para las diferentes unidades que estudiemos. 
+
 Versión inicial del repositorio, por Diego García de PAI5A de la optativa de Programación del curso 25-26. 
