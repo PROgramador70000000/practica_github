@@ -5,5 +5,5 @@ palabra3 = input("Introduce la tercera palabra: ")
 palabra4 = input("Introduce la cuarta palabra: ")
 palabra5 = input("Introduce la quinta palabra: ")
 
-print("Las palabras son:", palabra1, palabra2, palabra3, palabra4, palabra5, sep=", ")
-print("Las palabras en orden inverso son:", palabra5, palabra4, palabra3, palabra2, palabra1, sep=", ")
+print("Las palabras son:", palabra1, ",", palabra2, ",", palabra3, ",", palabra4, ",", palabra5)
+print("Las palabras en orden inverso son:", palabra5, ",", palabra4, ",", palabra3, ",", palabra2, ",", palabra1)
