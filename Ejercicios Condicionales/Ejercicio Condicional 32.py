@@ -2,7 +2,9 @@
 
 frase = str("A quién madruga Dios ayuda. ")
 palabra = str(input("Introduce una palabra que se encuentre en la frase A quién madruga Dios le ayuda: "))
-palabra_en_frase = frase.find(palabra)
+frase_minuscula = frase.lower()
+palabra_minuscula = palabra.lower()
+palabra_en_frase = frase_minuscula.find(palabra_minuscula)
 
 if palabra_en_frase == -1:
     print("La palabra no se encuentra en esa frase. ")
