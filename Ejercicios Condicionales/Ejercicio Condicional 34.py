@@ -9,6 +9,7 @@ var_longitud = len(var_numero)
 
 #sumo cada digito a partir del índice de cada posición
 var_suma = var_numero [0] + var_numero [1]+ var_numero[2] + var_numero [3]
+var_suma = float(var_suma)
 
 #utilizo una condición y el operador aritmético // para saber si el resto da 0 y ver si es par
 if (var_suma // 2) == 0:
