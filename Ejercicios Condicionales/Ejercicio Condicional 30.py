@@ -1,10 +1,8 @@
 #30. Realiza un programa que controle si la longitud de una frase introducida por teclado es igual, menor o mayor de 11 caracteres. Utiliza elif
 
 frase = str(input("Introduce una frase cualquiera: "))
-longitud = 0
 
-for i in frase:
-    longitud += 1
+longitud = len(frase)
 
 if longitud < 11:
     print("La longitud es de", longitud, " así que es menor de 11. ")
